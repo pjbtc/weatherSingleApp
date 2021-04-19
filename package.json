@@ -6,7 +6,7 @@
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
     "bootstrap": "^4.6.0",
-    "i18n-iso-countries": "^6.7.0",
+    "i18n-iso-countries": "^6.7.0", //  using the i18n-iso-countries package to get a countries object in English which has keys as iso codes and values as the country names.
     "react": "^17.0.2",
     "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.2",
